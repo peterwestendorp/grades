@@ -14,7 +14,7 @@ namespace Grades
       GradeBook g1 = new GradeBook();
       GradeBook g2 = g1;
       SpeechSynthesizer synth = new SpeechSynthesizer();
-//      synth.Speak("Yuri, did you know C# can talk?");
+      synth.Speak("Yuri, did you know C# can talk?");
 
       GradeBook book = new GradeBook();
 
