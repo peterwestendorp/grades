@@ -1,0 +1,7 @@
+C:\Development Next Git\see-sharp\Grades\Grades\bin\Debug\Grades.pdb
+C:\Development Next Git\see-sharp\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Development Next Git\see-sharp\Grades\Grades\obj\Debug\Grades.pdb
+C:\Development Next Git\see-sharp\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Development Next Git\see-sharp\Grades\Grades\bin\Debug\Grades.exe
+C:\Development Next Git\see-sharp\Grades\Grades\obj\Debug\Grades.exe
+C:\Development Next Git\see-sharp\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache

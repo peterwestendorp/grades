@@ -1,0 +1,16 @@
+C:\Development Next Git\see-sharp\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Development Next Git\see-sharp\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Development Next Git\see-sharp\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Development Next Git\see-sharp\Grades\Grades.Tests\bin\Debug\Grades.Tests.dll
+C:\Development Next Git\see-sharp\Grades\Grades.Tests\bin\Debug\Grades.Tests.pdb
+C:\Development Next Git\see-sharp\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Development Next Git\see-sharp\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Development Next Git\see-sharp\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Development Next Git\see-sharp\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Development Next Git\see-sharp\Grades\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+C:\Development Next Git\see-sharp\Grades\Grades.Tests\obj\Debug\Grades.Tests.csproj.CoreCompileInputs.cache
+C:\Development Next Git\see-sharp\Grades\Grades.Tests\obj\Debug\Grades.Tests.dll
+C:\Development Next Git\see-sharp\Grades\Grades.Tests\obj\Debug\Grades.Tests.pdb
+C:\Development Next Git\see-sharp\Grades\Grades.Tests\bin\Debug\Grades.exe
+C:\Development Next Git\see-sharp\Grades\Grades.Tests\bin\Debug\Grades.pdb
+C:\Development Next Git\see-sharp\Grades\Grades.Tests\bin\Debug\Grades.exe.config
